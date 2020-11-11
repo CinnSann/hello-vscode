@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    text-align: center;
+  }
+
+  h1, p {
+    background-color: #DDE0E3;    /* Light gray */
+    padding: 20px 0 20px 10px;         /* Vertical - Horizontal padding, if more always clockwise */
+    margin-top: 25px;
+    margin-bottom: 50px;
+    border-bottom: 1px solid #5d6063
+
+  }
+
+  em, strong {
+    background-color: #B2D6FF;    /* Light blue */
+    display: inline                 /* This is the default for em and strong */
+  }
+
+  div {
+    color: #FFF;
+    background-color: #5995DA;
+    font-weight: bold;
+    padding: 20px;
+    text-align: center;
+
+
+    width: 200px;
+    box-sizing: border-box;
+    margin: 20px auto; /* Verticle Horizontal */
+  }
