@@ -1,5 +1,5 @@
 # Hello VSCode
-### This project is a tutorial that covers the ins and outs of web development using a guide from Oliver James and the *[InternetingisHard](InternetingisHard.com)* team.
+### This project is a tutorial that covers the ins and outs of web development using a guide from Oliver James and the *InternetingisHard* team.
 ## HTML & CSS - 14 Chapter Guide
     - For this project I was instructed to complete each chapter of the tutorial in its own respective branch, however the main branch contains the first two chapters because I did them together.
     - This tutorial originally mentions installing the Atom text editor, but I used Visual Studio Code instead and completed the guide that way.
@@ -22,6 +22,6 @@
 14. Web Typography (web-typography) - web developer foundation into typography and its value
 
 #### I highly recommend stumbling through this guide and keeping it as a referance forever as it served its intended purpose, a great foundation.
-## I wouldn't suggest forking this repo - *instead* , head over to <div align="center">[this link](internetingishard.com/html-and-css/)</div> and they'll walk you through this project as they did with me.
+## I wouldn't suggest forking this repo - *instead* , head over to <div align="center">[this link](https://www.internetingishard.com/html-and-css/)</div> and they'll walk you through this project as they did with me.
 
 ### happy coding <3 (;
